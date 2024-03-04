@@ -20,5 +20,4 @@ console.log(78 / 2, "I am the quotient of 78 / 2")
 // const num3 = "3" + "9";
 // console.log("3" + "9", "I am 3 and 9 catenated")
 
-
 alert (`${userMessage} ${num1} - ${num2} - ${num3}`) // catenating all variables in oder to display them to the user 
